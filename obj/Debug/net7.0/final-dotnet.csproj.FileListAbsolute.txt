@@ -1,0 +1,15 @@
+C:\Users\Ammar\final-dotnet\bin\Debug\net7.0\final-dotnet.exe
+C:\Users\Ammar\final-dotnet\bin\Debug\net7.0\final-dotnet.deps.json
+C:\Users\Ammar\final-dotnet\bin\Debug\net7.0\final-dotnet.runtimeconfig.json
+C:\Users\Ammar\final-dotnet\bin\Debug\net7.0\final-dotnet.dll
+C:\Users\Ammar\final-dotnet\bin\Debug\net7.0\final-dotnet.pdb
+C:\Users\Ammar\final-dotnet\obj\Debug\net7.0\final-dotnet.csproj.AssemblyReference.cache
+C:\Users\Ammar\final-dotnet\obj\Debug\net7.0\final-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ammar\final-dotnet\obj\Debug\net7.0\final-dotnet.AssemblyInfoInputs.cache
+C:\Users\Ammar\final-dotnet\obj\Debug\net7.0\final-dotnet.AssemblyInfo.cs
+C:\Users\Ammar\final-dotnet\obj\Debug\net7.0\final-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\final-dotnet\obj\Debug\net7.0\final-dotnet.dll
+C:\Users\Ammar\final-dotnet\obj\Debug\net7.0\refint\final-dotnet.dll
+C:\Users\Ammar\final-dotnet\obj\Debug\net7.0\final-dotnet.pdb
+C:\Users\Ammar\final-dotnet\obj\Debug\net7.0\final-dotnet.genruntimeconfig.cache
+C:\Users\Ammar\final-dotnet\obj\Debug\net7.0\ref\final-dotnet.dll
